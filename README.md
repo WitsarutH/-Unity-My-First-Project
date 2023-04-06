@@ -16,8 +16,6 @@
 
 ![3](screenshot/3.jpg)
 
-![4](screenshot/4.jpg)
-
 ![5](screenshot/5.jpg)
 
 ![6](screenshot/6.jpg)
